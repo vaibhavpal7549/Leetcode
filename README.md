@@ -43,7 +43,7 @@ To run the SQL queries in this repository, you will need:
 ### How to Run:
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/Competitive-Coding/SQL.git
+    git clone https://github.com/vaibhavpal7549/Competitive-Coding/SQL.git
     ```
 2. Navigate to the desired SQL file or folder.
 3. Open the SQL file in your preferred SQL environment.
