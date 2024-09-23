@@ -100,4 +100,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-Feel free to adjust the structure and sections based on the exact content and organization of your SQL repository!
