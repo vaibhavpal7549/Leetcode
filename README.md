@@ -1,102 +1,95 @@
-# Competitive-Coding
-LeetCode solutions organized by difficulty and topic. Each solution is written in SQL with clear explanations. Browse folders by difficulty or topic. Contributions are welcome—fork the repo to share optimized solutions. Licensed under MIT. 
+# Leetcode  
 
+This repository contains all my solutions to various **LeetCode problems**, written in **Java**. It is a collection of problems I have solved during my **DSA (Data Structures and Algorithms)** journey, categorized by difficulty and topic.  
 
-Here’s a template for your GitHub repository README file for the "SQL" repo. You can modify it according to your specific needs.
-
----
-
-# SQL Repository
-
-Welcome to the **SQL Repository**! This repository contains various SQL scripts and queries, covering a range of topics from basic SQL commands to more advanced database management techniques.
-
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Getting Started](#getting-started)
-3. [Structure](#structure)
-4. [Technologies Used](#technologies-used)
-5. [Contributions](#contributions)
-6. [License](#license)
-
-## Overview
-
-This repository is dedicated to learning and implementing SQL (Structured Query Language). The scripts here demonstrate the use of SQL for querying, updating, and managing databases. Whether you are a beginner looking to understand basic SQL commands or an advanced user exploring complex queries, this repo aims to serve as a resource for both.
-
-### Features:
-- Basic SQL commands (SELECT, INSERT, UPDATE, DELETE)
-- Complex queries (JOINs, Subqueries, etc.)
-- Database creation and management
-- Optimization tips and best practices
-- Examples from popular databases like MySQL, PostgreSQL, and SQLite
-
-## Getting Started
-
-### Prerequisites:
-To run the SQL queries in this repository, you will need:
-- A working SQL environment, such as:
-  - MySQL
-  - PostgreSQL
-  - SQLite
-  - SQL Server
-
-### How to Run:
-1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/vaibhavpal7549/Competitive-Coding.git
-    ```
-2. Navigate to the desired SQL file or folder.
-3. Open the SQL file in your preferred SQL environment.
-4. Run the queries against your database.
-
-## Structure
-
-The repository is structured as follows:
-
-```
-SQL/
-│
-├── Basic_Queries/
-│   ├── select_queries.sql
-│   ├── insert_queries.sql
-│   └── update_delete.sql
-│
-├── Advanced_Queries/
-│   ├── joins.sql
-│   ├── subqueries.sql
-│   └── views_triggers.sql
-│
-└── Database_Management/
-    ├── create_database.sql
-    ├── normalization_tips.md
-    └── optimization_techniques.sql
-```
-
-Each directory focuses on different aspects of SQL, from basic querying to advanced database management techniques.
-
-## Technologies Used
-
-This repository focuses on the following database management systems (DBMS):
-- **MySQL**
-- **PostgreSQL**
-- **SQLite**
-- **SQL Server**
-
-## Contributions
-
-Contributions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or new ideas to share. Please make sure that your contributions follow the repository's coding standards.
-
-### Steps to Contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit the changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a Pull Request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+## 🚀 About the Repository  
+The aim of this repository is to:  
+- Document my LeetCode problem-solving progress.  
+- Serve as a reference for anyone looking for solutions or explanations for similar problems.  
+- Improve coding and problem-solving skills by working on a variety of challenges.  
 
 ---
 
+## 📁 Folder Structure  
+The repository is organized into folders based on:  
+
+1. **Difficulty**:  
+   - Easy  
+   - Medium  
+   - Hard  
+
+2. **Topics**:  
+   - Arrays  
+   - Strings  
+   - Linked Lists  
+   - Trees  
+   - Graphs  
+   - Dynamic Programming (DP)  
+   - Backtracking  
+   - Sorting and Searching  
+
+Each folder contains files named according to the problem title or LeetCode problem number for easy identification.
+
+---
+
+## 🛠️ Tools and Technologies  
+- **Language**: Java  
+- **Platform**: [LeetCode](https://leetcode.com/vaibhavpal7549)  
+
+---
+
+## 🌟 Features  
+- Clean, readable, and well-commented code for better understanding.  
+- Optimized solutions whenever possible, along with explanations of the logic.  
+- Categorized problems for quick access.  
+
+---
+
+## 📚 How to Use  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/vaibhavpal7549/Leetcode.git  
+   ```  
+2. Navigate to the folder of the desired topic or difficulty.  
+3. Open the solution file in your favorite IDE to run or study it.  
+
+---
+
+## 📈 Progress Tracker  
+You can follow my LeetCode journey:  
+- **LeetCode Profile**: [vaibhavpal7549](https://www.leetcode.com/vaibhavpal7549)  
+
+---
+
+## 🤝 Contributions  
+Contributions are welcome! If you’ve got a better or alternative solution, feel free to contribute:  
+1. Fork the repository.  
+2. Create a new branch:  
+   ```bash  
+   git checkout -b feature-name  
+   ```  
+3. Make your changes and commit them:  
+   ```bash  
+   git commit -m "Description of changes"  
+   ```  
+4. Push to your forked repository and create a pull request.  
+
+---
+
+## 📞 Contact  
+If you have questions, suggestions, or feedback, feel free to reach out:  
+- **Email**: [vaibhavpal.info@gmail.com](mailto:vaibhavpal.info@gmail.com)  
+- **LinkedIn**: [vaibhavpal7549](https://www.linkedin.com/in/vaibhavpal7549)  
+
+---
+
+## 🌟 Acknowledgment  
+I would like to thank the **LeetCode community** for their constant motivation and for providing a platform to enhance problem-solving skills.  
+
+---
+
+
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
