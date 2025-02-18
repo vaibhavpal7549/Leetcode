@@ -7,6 +7,9 @@ class Solution {
                 if(nums[i] == nums[j]){
                     count++;
                 }
+                else{
+                    break;
+                }
 
             }
             
