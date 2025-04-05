@@ -10,22 +10,20 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode temp = head;
-        ArrayList<Integer> list = new ArrayList<>();
-        while(temp!=null){
-            list.add(temp.val);
-            temp = temp.next;
+        ListNode slow = head;
+        boolean isPalin = true;
+        Stack<Integer> s = new Stack<>();
+        while(slow!=null){
+            s.push(slow.val);
+            slow = slow.next;
         }
-        int l = 0;
-        int r = list.size()-1;
-        while(l<=r){
-            if(list.get(l) != list.get(r)){
-                return false;
+        while(head!=null){
+            int i = s.pop();
+            if(head.val!=i){
+                isPalin = false;
             }
-            l++;
-            r--;
+            head = head.next;
         }
-        return true;
-        
+        return isPalin;
     }
 }
