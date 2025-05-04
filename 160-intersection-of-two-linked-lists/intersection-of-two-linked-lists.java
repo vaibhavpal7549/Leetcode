@@ -13,24 +13,25 @@
 
 class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        
-        ArrayList<ListNode> list = new ArrayList<>();
-        ListNode temp = headA;
+        ListNode A = headA;
+        ListNode B = headB;
 
-        while (temp != null) {
-            list.add(temp);
-            temp = temp.next;
-        }
-
-        
-        temp = headB;
-        while (temp != null) {
-            if (list.contains(temp)) {
-                return temp;
+        while(A != B){
+            if(A == null){
+                A = headB;
             }
-            temp = temp.next;
-        }
+            else A = A.next;
+            if(B == null){
+                B = headA;
+            }
+            else B = B.next;
 
-        return null;
+        }
+        return A;
+
+
     }
+
+
+
 }
