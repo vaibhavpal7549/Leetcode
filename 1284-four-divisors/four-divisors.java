@@ -4,15 +4,11 @@ class Solution {
         int sum = 0;
         for(int i = 1; i*i<=n; i++){
             if(n%i == 0){
-                int d1 = i;
-                int d2 = n / i;
-
-                if (d1 == d2) {
-                    count++;
-                    sum += d1;
-                } else {
-                    count += 2;
-                    sum += d1 + d2;
+                count += 1;
+                sum += i;
+                if(n/i != i){
+                    count += 1;
+                    sum += n/i;
                 }
             }
         }
