@@ -246,3 +246,169 @@ I would like to thank the **LeetCode community** for their constant motivation a
 
 ## License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<!-- AUTO-GENERATED:START -->
+## LeetCode Topics
+
+> This section is auto-generated on every push to `main`.
+
+### Array
+- [0001-two-sum](./1-two-sum) — [LeetCode](https://leetcode.com/problems/two-sum/)
+- [0015-3sum](./15-3sum) — [LeetCode](https://leetcode.com/problems/3sum/)
+- [0026-remove-duplicates-from-sorted-array](./26-remove-duplicates-from-sorted-array) — [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [0033-search-in-rotated-sorted-array](./33-search-in-rotated-sorted-array) — [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [0034-find-first-and-last-position-of-element-in-sorted-array](./34-find-first-and-last-position-of-element-in-sorted-array) — [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [0053-maximum-subarray](./53-maximum-subarray) — [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+- [0054-spiral-matrix](./54-spiral-matrix) — [LeetCode](https://leetcode.com/problems/spiral-matrix/)
+- [0074-search-a-2d-matrix](./74-search-a-2d-matrix) — [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/)
+- [0088-merge-sorted-array](./88-merge-sorted-array) — [LeetCode](https://leetcode.com/problems/merge-sorted-array/)
+- [0167-two-sum-ii-input-array-is-sorted](./167-two-sum-ii-input-array-is-sorted) — [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [0189-rotate-array](./189-rotate-array) — [LeetCode](https://leetcode.com/problems/rotate-array/)
+- [0215-kth-largest-element-in-an-array](./215-kth-largest-element-in-an-array) — [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [0349-intersection-of-two-arrays](./349-intersection-of-two-arrays) — [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [0410-split-array-largest-sum](./410-split-array-largest-sum) — [LeetCode](https://leetcode.com/problems/split-array-largest-sum/)
+- [0643-maximum-average-subarray-i](./643-maximum-average-subarray-i) — [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [0932-monotonic-array](./932-monotonic-array) — [LeetCode](https://leetcode.com/problems/monotonic-array/)
+- [0941-sort-array-by-parity](./941-sort-array-by-parity) — [LeetCode](https://leetcode.com/problems/sort-array-by-parity/)
+- [0958-sort-array-by-parity-ii](./958-sort-array-by-parity-ii) — [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/)
+- [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) — [LeetCode](https://leetcode.com/problems/matrix-diagonal-sum/)
+- [1878-check-if-array-is-sorted-and-rotated](./1878-check-if-array-is-sorted-and-rotated) — [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+- [2058-concatenation-of-array](./2058-concatenation-of-array) — [LeetCode](https://leetcode.com/problems/concatenation-of-array/)
+- [2106-find-greatest-common-divisor-of-array](./2106-find-greatest-common-divisor-of-array) — [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
+- [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) — [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
+- [2270-find-all-lonely-numbers-in-the-array](./2270-find-all-lonely-numbers-in-the-array) — [LeetCode](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/)
+- [2277-count-equal-and-divisible-pairs-in-an-array](./2277-count-equal-and-divisible-pairs-in-an-array) — [LeetCode](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/)
+- [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) — [LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+- [3394-minimum-array-end](./3394-minimum-array-end) — [LeetCode](https://leetcode.com/problems/minimum-array-end/)
+- [3429-special-array-i](./3429-special-array-i) — [LeetCode](https://leetcode.com/problems/special-array-i/)
+- [3605-construct-the-minimum-bitwise-array-i](./3605-construct-the-minimum-bitwise-array-i) — [LeetCode](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/)
+
+### Backtracking
+- [0052-n-queens-ii](./52-n-queens-ii) — [LeetCode](https://leetcode.com/problems/n-queens-ii/)
+- [0078-subsets](./78-subsets) — [LeetCode](https://leetcode.com/problems/subsets/)
+
+### Binary Search
+- [0035-search-insert-position](./35-search-insert-position) — [LeetCode](https://leetcode.com/problems/search-insert-position/)
+- [0069-sqrtx](./69-sqrtx) — [LeetCode](https://leetcode.com/problems/sqrtx/)
+- [0162-find-peak-element](./162-find-peak-element) — [LeetCode](https://leetcode.com/problems/find-peak-element/)
+- [0792-binary-search](./792-binary-search) — [LeetCode](https://leetcode.com/problems/binary-search/)
+- [1056-capacity-to-ship-packages-within-d-days](./1056-capacity-to-ship-packages-within-d-days) — [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+### Dynamic Programming
+- [0070-climbing-stairs](./70-climbing-stairs) — [LeetCode](https://leetcode.com/problems/climbing-stairs/)
+- [0416-partition-equal-subset-sum](./416-partition-equal-subset-sum) — [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+### Greedy
+- [0455-assign-cookies](./455-assign-cookies) — [LeetCode](https://leetcode.com/problems/assign-cookies/)
+
+### Linked List
+- [0141-linked-list-cycle](./141-linked-list-cycle) — [LeetCode](https://leetcode.com/problems/linked-list-cycle/)
+- [0160-intersection-of-two-linked-lists](./160-intersection-of-two-linked-lists) — [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [0203-remove-linked-list-elements](./203-remove-linked-list-elements) — [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/)
+- [0206-reverse-linked-list](./206-reverse-linked-list) — [LeetCode](https://leetcode.com/problems/reverse-linked-list/)
+- [0908-middle-of-the-linked-list](./908-middle-of-the-linked-list) — [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+### Math / Bit
+- [0190-reverse-bits](./190-reverse-bits) — [LeetCode](https://leetcode.com/problems/reverse-bits/)
+- [0191-number-of-1-bits](./191-number-of-1-bits) — [LeetCode](https://leetcode.com/problems/number-of-1-bits/)
+- [0231-power-of-two](./231-power-of-two) — [LeetCode](https://leetcode.com/problems/power-of-two/)
+- [0258-add-digits](./258-add-digits) — [LeetCode](https://leetcode.com/problems/add-digits/)
+- [0326-power-of-three](./326-power-of-three) — [LeetCode](https://leetcode.com/problems/power-of-three/)
+- [0338-counting-bits](./338-counting-bits) — [LeetCode](https://leetcode.com/problems/counting-bits/)
+- [0342-power-of-four](./342-power-of-four) — [LeetCode](https://leetcode.com/problems/power-of-four/)
+- [1421-find-numbers-with-even-number-of-digits](./1421-find-numbers-with-even-number-of-digits) — [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+- [2608-count-the-digits-that-divide-a-number](./2608-count-the-digits-that-divide-a-number) — [LeetCode](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)
+
+### Other
+- [0007-reverse-integer](./7-reverse-integer) — [LeetCode](https://leetcode.com/problems/reverse-integer/)
+- [0011-container-with-most-water](./11-container-with-most-water) — [LeetCode](https://leetcode.com/problems/container-with-most-water/)
+- [0023-merge-k-sorted-lists](./23-merge-k-sorted-lists) — [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [0024-swap-nodes-in-pairs](./24-swap-nodes-in-pairs) — [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [0027-remove-element](./27-remove-element) — [LeetCode](https://leetcode.com/problems/remove-element/)
+- [0038-count-and-say](./38-count-and-say) — [LeetCode](https://leetcode.com/problems/count-and-say/)
+- [0042-trapping-rain-water](./42-trapping-rain-water) — [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
+- [0050-powx-n](./50-powx-n) — [LeetCode](https://leetcode.com/problems/powx-n/)
+- [0058-length-of-last-word](./58-length-of-last-word) — [LeetCode](https://leetcode.com/problems/length-of-last-word/)
+- [0066-plus-one](./66-plus-one) — [LeetCode](https://leetcode.com/problems/plus-one/)
+- [0067-add-binary](./67-add-binary) — [LeetCode](https://leetcode.com/problems/add-binary/)
+- [0075-sort-colors](./75-sort-colors) — [LeetCode](https://leetcode.com/problems/sort-colors/)
+- [0083-remove-duplicates-from-sorted-list](./83-remove-duplicates-from-sorted-list) — [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [0084-largest-rectangle-in-histogram](./84-largest-rectangle-in-histogram) — [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- [0113-path-sum-ii](./113-path-sum-ii) — [LeetCode](https://leetcode.com/problems/path-sum-ii/)
+- [0121-best-time-to-buy-and-sell-stock](./121-best-time-to-buy-and-sell-stock) — [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [0136-single-number](./136-single-number) — [LeetCode](https://leetcode.com/problems/single-number/)
+- [0169-majority-element](./169-majority-element) — [LeetCode](https://leetcode.com/problems/majority-element/)
+- [0171-excel-sheet-column-number](./171-excel-sheet-column-number) — [LeetCode](https://leetcode.com/problems/excel-sheet-column-number/)
+- [0202-happy-number](./202-happy-number) — [LeetCode](https://leetcode.com/problems/happy-number/)
+- [0204-count-primes](./204-count-primes) — [LeetCode](https://leetcode.com/problems/count-primes/)
+- [0217-contains-duplicate](./217-contains-duplicate) — [LeetCode](https://leetcode.com/problems/contains-duplicate/)
+- [0219-contains-duplicate-ii](./219-contains-duplicate-ii) — [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/)
+- [0242-valid-anagram](./242-valid-anagram) — [LeetCode](https://leetcode.com/problems/valid-anagram/)
+- [0268-missing-number](./268-missing-number) — [LeetCode](https://leetcode.com/problems/missing-number/)
+- [0273-integer-to-english-words](./273-integer-to-english-words) — [LeetCode](https://leetcode.com/problems/integer-to-english-words/)
+- [0283-move-zeroes](./283-move-zeroes) — [LeetCode](https://leetcode.com/problems/move-zeroes/)
+- [0319-bulb-switcher](./319-bulb-switcher) — [LeetCode](https://leetcode.com/problems/bulb-switcher/)
+- [0371-sum-of-two-integers](./371-sum-of-two-integers) — [LeetCode](https://leetcode.com/problems/sum-of-two-integers/)
+- [0374-guess-number-higher-or-lower](./374-guess-number-higher-or-lower) — [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [0496-next-greater-element-i](./496-next-greater-element-i) — [LeetCode](https://leetcode.com/problems/next-greater-element-i/)
+- [0507-perfect-number](./507-perfect-number) — [LeetCode](https://leetcode.com/problems/perfect-number/)
+- [0575-distribute-candies](./575-distribute-candies) — [LeetCode](https://leetcode.com/problems/distribute-candies/)
+- [0584-find-customer-referee](./584-find-customer-referee) — [LeetCode](https://leetcode.com/problems/find-customer-referee/)
+- [0628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) — [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+- [0633-sum-of-square-numbers](./633-sum-of-square-numbers) — [LeetCode](https://leetcode.com/problems/sum-of-square-numbers/)
+- [1013-fibonacci-number](./1013-fibonacci-number) — [LeetCode](https://leetcode.com/problems/fibonacci-number/)
+- [1064-smallest-integer-divisible-by-k](./1064-smallest-integer-divisible-by-k) — [LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
+- [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) — [LeetCode](https://leetcode.com/problems/product-sales-analysis-i/)
+- [1284-four-divisors](./1284-four-divisors) — [LeetCode](https://leetcode.com/problems/four-divisors/)
+- [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) — [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/)
+- [1626-can-make-arithmetic-progression-from-sequence](./1626-can-make-arithmetic-progression-from-sequence) — [LeetCode](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+- [1848-sum-of-unique-elements](./1848-sum-of-unique-elements) — [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/)
+- [2383-add-two-integers](./2383-add-two-integers) — [LeetCode](https://leetcode.com/problems/add-two-integers/)
+- [2481-strictly-palindromic-number](./2481-strictly-palindromic-number) — [LeetCode](https://leetcode.com/problems/strictly-palindromic-number/)
+- [2737-row-with-maximum-ones](./2737-row-with-maximum-ones) — [LeetCode](https://leetcode.com/problems/row-with-maximum-ones/)
+- [3152-maximum-value-of-an-ordered-triplet-ii](./3152-maximum-value-of-an-ordered-triplet-ii) — [LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
+- [3154-maximum-value-of-an-ordered-triplet-i](./3154-maximum-value-of-an-ordered-triplet-i) — [LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/)
+- [3279-alice-and-bob-playing-flower-game](./3279-alice-and-bob-playing-flower-game) — [LeetCode](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)
+- [3321-type-of-triangle](./3321-type-of-triangle) — [LeetCode](https://leetcode.com/problems/type-of-triangle/)
+- [3704-count-partitions-with-even-sum-difference](./3704-count-partitions-with-even-sum-difference) — [LeetCode](https://leetcode.com/problems/count-partitions-with-even-sum-difference/)
+
+### SQL
+- [0595-big-countries](./595-big-countries) — [LeetCode](https://leetcode.com/problems/big-countries/)
+- [1258-article-views-i](./1258-article-views-i) — [LeetCode](https://leetcode.com/problems/article-views-i/)
+- [1509-replace-employee-id-with-the-unique-identifier](./1509-replace-employee-id-with-the-unique-identifier) — [LeetCode](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
+- [1827-invalid-tweets](./1827-invalid-tweets) — [LeetCode](https://leetcode.com/problems/invalid-tweets/)
+- [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) — [LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+
+### Stack
+- [0020-valid-parentheses](./20-valid-parentheses) — [LeetCode](https://leetcode.com/problems/valid-parentheses/)
+- [0022-generate-parentheses](./22-generate-parentheses) — [LeetCode](https://leetcode.com/problems/generate-parentheses/)
+- [0150-evaluate-reverse-polish-notation](./150-evaluate-reverse-polish-notation) — [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [0957-minimum-add-to-make-parentheses-valid](./957-minimum-add-to-make-parentheses-valid) — [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+### String
+- [0006-zigzag-conversion](./6-zigzag-conversion) — [LeetCode](https://leetcode.com/problems/zigzag-conversion/)
+- [0013-roman-to-integer](./13-roman-to-integer) — [LeetCode](https://leetcode.com/problems/roman-to-integer/)
+- [0014-longest-common-prefix](./14-longest-common-prefix) — [LeetCode](https://leetcode.com/problems/longest-common-prefix/)
+- [0028-find-the-index-of-the-first-occurrence-in-a-string](./28-find-the-index-of-the-first-occurrence-in-a-string) — [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- [0125-valid-palindrome](./125-valid-palindrome) — [LeetCode](https://leetcode.com/problems/valid-palindrome/)
+- [0151-reverse-words-in-a-string](./151-reverse-words-in-a-string) — [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [0234-palindrome-linked-list](./234-palindrome-linked-list) — [LeetCode](https://leetcode.com/problems/palindrome-linked-list/)
+- [0344-reverse-string](./344-reverse-string) — [LeetCode](https://leetcode.com/problems/reverse-string/)
+- [0345-reverse-vowels-of-a-string](./345-reverse-vowels-of-a-string) — [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+- [0387-first-unique-character-in-a-string](./387-first-unique-character-in-a-string) — [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [0394-decode-string](./394-decode-string) — [LeetCode](https://leetcode.com/problems/decode-string/)
+- [0415-add-strings](./415-add-strings) — [LeetCode](https://leetcode.com/problems/add-strings/)
+- [1341-split-a-string-in-balanced-strings](./1341-split-a-string-in-balanced-strings) — [LeetCode](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+- [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) — [LeetCode](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+- [2654-count-the-number-of-vowel-strings-in-range](./2654-count-the-number-of-vowel-strings-in-range) — [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)
+
+### Tree
+- [0094-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [0098-validate-binary-search-tree](./98-validate-binary-search-tree) — [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/)
+- [0104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) — [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [0144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [0145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [0222-count-complete-tree-nodes](./222-count-complete-tree-nodes) — [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/)
+- [1005-univalued-binary-tree](./1005-univalued-binary-tree) — [LeetCode](https://leetcode.com/problems/univalued-binary-tree/)
+- [1285-balance-a-binary-search-tree](./1285-balance-a-binary-search-tree) — [LeetCode](https://leetcode.com/problems/balance-a-binary-search-tree/)
+<!-- AUTO-GENERATED:END -->
