@@ -1,95 +1,54 @@
-# Leetcode  
+# LeetCode Problems Index
 
-This repository contains all my solutions to various **LeetCode problems**, written in **Java**. It is a collection of problems I have solved during my **DSA (Data Structures and Algorithms)** journey, categorized by difficulty and topic.  
+Welcome to my repository consisting of solved LeetCode problems. Here you will find a categorized index of problems, grouped by inferred topics. Each topic contains links to the corresponding folders in this repository as well as direct links to the LeetCode problem pages.
 
-## 🚀 About the Repository  
-The aim of this repository is to:  
-- Document my LeetCode problem-solving progress.  
-- Serve as a reference for anyone looking for solutions or explanations for similar problems.  
-- Improve coding and problem-solving skills by working on a variety of challenges.  
+## Table of Contents  
+- [Array](#array)  
+- [String](#string)  
+- [Linked List](#linked-list)  
+- [Stack](#stack)  
+- [Queue](#queue)  
+- [Tree](#tree)  
+- [Graph](#graph)  
+- [Dynamic Programming](#dynamic-programming)  
+- [Greedy](#greedy)  
+- [Binary Search](#binary-search)  
+- [Math](#math)  
+- [SQL](#sql)  
 
----
+## Array
+- [1 Two Sum](./1-two-sum) - [LeetCode Problem](https://leetcode.com/problems/two-sum/)  
+- [16 Three Sum Closest](./16-three-sum-closest) - [LeetCode Problem](https://leetcode.com/problems/three-sum-closest/)  
 
-## 📁 Folder Structure  
-The repository is organized into folders based on:  
+## String
+- [14 Longest Common Prefix](./14-longest-common-prefix) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)  
 
-1. **Difficulty**:  
-   - Easy  
-   - Medium  
-   - Hard  
+## Linked List
+- [2 Add Two Numbers](./2-add-two-numbers) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)  
 
-2. **Topics**:  
-   - Arrays  
-   - Strings  
-   - Linked Lists  
-   - Trees  
-   - Graphs  
-   - Dynamic Programming (DP)  
-   - Backtracking  
-   - Sorting and Searching  
+## Stack
+- [20 Valid Parentheses](./20-valid-parentheses) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)  
 
-Each folder contains files named according to the problem title or LeetCode problem number for easy identification.
+## Queue
+- [225 Implement Stack using Queues](./225-implement-stack-using-queues) - [LeetCode Problem](https://leetcode.com/problems/implement-stack-using-queues/)  
 
----
+## Tree
+- [104 Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree) - [LeetCode Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
 
-## 🛠️ Tools and Technologies  
-- **Language**: Java  
-- **Platform**: [LeetCode](https://leetcode.com/vaibhavpal7549)  
+## Graph
+- [200 Number of Islands](./200-number-of-islands) - [LeetCode Problem](https://leetcode.com/problems/number-of-islands/)  
 
----
+## Dynamic Programming
+- [70 Climbing Stairs](./70-climbing-stairs) - [LeetCode Problem](https://leetcode.com/problems/climbing-stairs/)  
 
-## 🌟 Features  
-- Clean, readable, and well-commented code for better understanding.  
-- Optimized solutions whenever possible, along with explanations of the logic.  
-- Categorized problems for quick access.  
+## Greedy
+- [55 Jump Game](./55-jump-game) - [LeetCode Problem](https://leetcode.com/problems/jump-game/)  
 
----
+## Binary Search
+- [704 Binary Search](./704-binary-search) - [LeetCode Problem](https://leetcode.com/problems/binary-search/)  
 
-## 📚 How to Use  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/vaibhavpal7549/Leetcode.git  
-   ```  
-2. Navigate to the folder of the desired topic or difficulty.  
-3. Open the solution file in your favorite IDE to run or study it.  
+## Math
+- [9 Palindrome Number](./9-palindrome-number) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)  
 
----
-
-## 📈 Progress Tracker  
-You can follow my LeetCode journey:  
-- **LeetCode Profile**: [vaibhavpal7549](https://www.leetcode.com/vaibhavpal7549)  
-
----
-
-## 🤝 Contributions  
-Contributions are welcome! If you’ve got a better or alternative solution, feel free to contribute:  
-1. Fork the repository.  
-2. Create a new branch:  
-   ```bash  
-   git checkout -b feature-name  
-   ```  
-3. Make your changes and commit them:  
-   ```bash  
-   git commit -m "Description of changes"  
-   ```  
-4. Push to your forked repository and create a pull request.  
-
----
-
-## 📞 Contact  
-If you have questions, suggestions, or feedback, feel free to reach out:  
-- **Email**: [vaibhavpal.info@gmail.com](mailto:vaibhavpal.info@gmail.com)  
-- **LinkedIn**: [vaibhavpal7549](https://www.linkedin.com/in/vaibhavpal7549)  
-
----
-
-## 🌟 Acknowledgment  
-I would like to thank the **LeetCode community** for their constant motivation and for providing a platform to enhance problem-solving skills.  
-
----
-
-
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
+## SQL
+- [175 Combine Two Tables](./175-combine-two-tables) - [LeetCode Problem](https://leetcode.com/problems/combine-two-tables/)  
