@@ -360,6 +360,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [1064-smallest-integer-divisible-by-k](./1064-smallest-integer-divisible-by-k) — [LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
 - [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) — [LeetCode](https://leetcode.com/problems/product-sales-analysis-i/)
 - [1284-four-divisors](./1284-four-divisors) — [LeetCode](https://leetcode.com/problems/four-divisors/)
+- [1450-delete-leaves-with-a-given-value](./1450-delete-leaves-with-a-given-value) — [LeetCode](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
 - [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) — [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [1626-can-make-arithmetic-progression-from-sequence](./1626-can-make-arithmetic-progression-from-sequence) — [LeetCode](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [1848-sum-of-unique-elements](./1848-sum-of-unique-elements) — [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/)
