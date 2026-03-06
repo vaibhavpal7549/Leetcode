@@ -409,6 +409,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [0145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [0222-count-complete-tree-nodes](./222-count-complete-tree-nodes) — [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/)
+- [0226-invert-binary-tree](./226-invert-binary-tree) — [LeetCode](https://leetcode.com/problems/invert-binary-tree/)
 - [1005-univalued-binary-tree](./1005-univalued-binary-tree) — [LeetCode](https://leetcode.com/problems/univalued-binary-tree/)
 - [1285-balance-a-binary-search-tree](./1285-balance-a-binary-search-tree) — [LeetCode](https://leetcode.com/problems/balance-a-binary-search-tree/)
 <!-- AUTO-GENERATED:END -->
