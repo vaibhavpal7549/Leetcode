@@ -406,6 +406,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0094-binary-tree-inorder-traversal](./94-binary-tree-inorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [0098-validate-binary-search-tree](./98-validate-binary-search-tree) — [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/)
 - [0104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) — [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [0124-binary-tree-maximum-path-sum](./124-binary-tree-maximum-path-sum) — [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [0144-binary-tree-preorder-traversal](./144-binary-tree-preorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [0145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [0222-count-complete-tree-nodes](./222-count-complete-tree-nodes) — [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/)
