@@ -415,6 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0145-binary-tree-postorder-traversal](./145-binary-tree-postorder-traversal) — [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [0222-count-complete-tree-nodes](./222-count-complete-tree-nodes) — [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/)
 - [0226-invert-binary-tree](./226-invert-binary-tree) — [LeetCode](https://leetcode.com/problems/invert-binary-tree/)
+- [0230-kth-smallest-element-in-a-bst](./230-kth-smallest-element-in-a-bst) — [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [0783-search-in-a-binary-search-tree](./783-search-in-a-binary-search-tree) — [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - [0975-range-sum-of-bst](./975-range-sum-of-bst) — [LeetCode](https://leetcode.com/problems/range-sum-of-bst/)
 - [1005-univalued-binary-tree](./1005-univalued-binary-tree) — [LeetCode](https://leetcode.com/problems/univalued-binary-tree/)
