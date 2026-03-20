@@ -347,6 +347,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0268-missing-number](./268-missing-number) — [LeetCode](https://leetcode.com/problems/missing-number/)
 - [0273-integer-to-english-words](./273-integer-to-english-words) — [LeetCode](https://leetcode.com/problems/integer-to-english-words/)
 - [0283-move-zeroes](./283-move-zeroes) — [LeetCode](https://leetcode.com/problems/move-zeroes/)
+- [0287-find-the-duplicate-number](./287-find-the-duplicate-number) — [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)
 - [0319-bulb-switcher](./319-bulb-switcher) — [LeetCode](https://leetcode.com/problems/bulb-switcher/)
 - [0371-sum-of-two-integers](./371-sum-of-two-integers) — [LeetCode](https://leetcode.com/problems/sum-of-two-integers/)
 - [0374-guess-number-higher-or-lower](./374-guess-number-higher-or-lower) — [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/)
