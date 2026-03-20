@@ -371,6 +371,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [2737-row-with-maximum-ones](./2737-row-with-maximum-ones) — [LeetCode](https://leetcode.com/problems/row-with-maximum-ones/)
 - [3152-maximum-value-of-an-ordered-triplet-ii](./3152-maximum-value-of-an-ordered-triplet-ii) — [LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
 - [3154-maximum-value-of-an-ordered-triplet-i](./3154-maximum-value-of-an-ordered-triplet-i) — [LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/)
+- [3227-find-missing-and-repeated-values](./3227-find-missing-and-repeated-values) — [LeetCode](https://leetcode.com/problems/find-missing-and-repeated-values/)
 - [3279-alice-and-bob-playing-flower-game](./3279-alice-and-bob-playing-flower-game) — [LeetCode](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)
 - [3321-type-of-triangle](./3321-type-of-triangle) — [LeetCode](https://leetcode.com/problems/type-of-triangle/)
 - [3704-count-partitions-with-even-sum-difference](./3704-count-partitions-with-even-sum-difference) — [LeetCode](https://leetcode.com/problems/count-partitions-with-even-sum-difference/)
