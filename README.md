@@ -390,6 +390,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0957-minimum-add-to-make-parentheses-valid](./957-minimum-add-to-make-parentheses-valid) — [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 
 ### String
+- [0003-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) — [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [0006-zigzag-conversion](./6-zigzag-conversion) — [LeetCode](https://leetcode.com/problems/zigzag-conversion/)
 - [0013-roman-to-integer](./13-roman-to-integer) — [LeetCode](https://leetcode.com/problems/roman-to-integer/)
 - [0014-longest-common-prefix](./14-longest-common-prefix) — [LeetCode](https://leetcode.com/problems/longest-common-prefix/)
