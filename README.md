@@ -359,6 +359,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0584-find-customer-referee](./584-find-customer-referee) — [LeetCode](https://leetcode.com/problems/find-customer-referee/)
 - [0628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) — [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [0633-sum-of-square-numbers](./633-sum-of-square-numbers) — [LeetCode](https://leetcode.com/problems/sum-of-square-numbers/)
+- [0720-longest-word-in-dictionary](./720-longest-word-in-dictionary) — [LeetCode](https://leetcode.com/problems/longest-word-in-dictionary/)
 - [1013-fibonacci-number](./1013-fibonacci-number) — [LeetCode](https://leetcode.com/problems/fibonacci-number/)
 - [1064-smallest-integer-divisible-by-k](./1064-smallest-integer-divisible-by-k) — [LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
 - [1153-product-sales-analysis-i](./1153-product-sales-analysis-i) — [LeetCode](https://leetcode.com/problems/product-sales-analysis-i/)
