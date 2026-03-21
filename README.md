@@ -322,6 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Other
 - [0007-reverse-integer](./7-reverse-integer) — [LeetCode](https://leetcode.com/problems/reverse-integer/)
 - [0011-container-with-most-water](./11-container-with-most-water) — [LeetCode](https://leetcode.com/problems/container-with-most-water/)
+- [0021-merge-two-sorted-lists](./21-merge-two-sorted-lists) — [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [0023-merge-k-sorted-lists](./23-merge-k-sorted-lists) — [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [0024-swap-nodes-in-pairs](./24-swap-nodes-in-pairs) — [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - [0027-remove-element](./27-remove-element) — [LeetCode](https://leetcode.com/problems/remove-element/)
