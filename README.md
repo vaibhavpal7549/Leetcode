@@ -360,6 +360,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) — [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [0633-sum-of-square-numbers](./633-sum-of-square-numbers) — [LeetCode](https://leetcode.com/problems/sum-of-square-numbers/)
 - [0720-longest-word-in-dictionary](./720-longest-word-in-dictionary) — [LeetCode](https://leetcode.com/problems/longest-word-in-dictionary/)
+- [0871-keys-and-rooms](./871-keys-and-rooms) — [LeetCode](https://leetcode.com/problems/keys-and-rooms/)
 - [1013-fibonacci-number](./1013-fibonacci-number) — [LeetCode](https://leetcode.com/problems/fibonacci-number/)
 - [1039-find-the-town-judge](./1039-find-the-town-judge) — [LeetCode](https://leetcode.com/problems/find-the-town-judge/)
 - [1064-smallest-integer-divisible-by-k](./1064-smallest-integer-divisible-by-k) — [LeetCode](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
