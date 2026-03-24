@@ -368,6 +368,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) — [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [1626-can-make-arithmetic-progression-from-sequence](./1626-can-make-arithmetic-progression-from-sequence) — [LeetCode](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [1848-sum-of-unique-elements](./1848-sum-of-unique-elements) — [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/)
+- [1916-find-center-of-star-graph](./1916-find-center-of-star-graph) — [LeetCode](https://leetcode.com/problems/find-center-of-star-graph/)
 - [2383-add-two-integers](./2383-add-two-integers) — [LeetCode](https://leetcode.com/problems/add-two-integers/)
 - [2481-strictly-palindromic-number](./2481-strictly-palindromic-number) — [LeetCode](https://leetcode.com/problems/strictly-palindromic-number/)
 - [2737-row-with-maximum-ones](./2737-row-with-maximum-ones) — [LeetCode](https://leetcode.com/problems/row-with-maximum-ones/)
