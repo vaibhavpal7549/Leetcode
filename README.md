@@ -357,6 +357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0371-sum-of-two-integers](./371-sum-of-two-integers) — [LeetCode](https://leetcode.com/problems/sum-of-two-integers/)
 - [0374-guess-number-higher-or-lower](./374-guess-number-higher-or-lower) — [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [0392-is-subsequence](./392-is-subsequence) — [LeetCode](https://leetcode.com/problems/is-subsequence/)
+- [0485-max-consecutive-ones](./485-max-consecutive-ones) — [LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
 - [0496-next-greater-element-i](./496-next-greater-element-i) — [LeetCode](https://leetcode.com/problems/next-greater-element-i/)
 - [0507-perfect-number](./507-perfect-number) — [LeetCode](https://leetcode.com/problems/perfect-number/)
 - [0575-distribute-candies](./575-distribute-candies) — [LeetCode](https://leetcode.com/problems/distribute-candies/)
