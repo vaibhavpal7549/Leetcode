@@ -272,6 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [0932-monotonic-array](./932-monotonic-array) — [LeetCode](https://leetcode.com/problems/monotonic-array/)
 - [0941-sort-array-by-parity](./941-sort-array-by-parity) — [LeetCode](https://leetcode.com/problems/sort-array-by-parity/)
 - [0958-sort-array-by-parity-ii](./958-sort-array-by-parity-ii) — [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/)
+- [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) — [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) — [LeetCode](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [1878-check-if-array-is-sorted-and-rotated](./1878-check-if-array-is-sorted-and-rotated) — [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 - [2058-concatenation-of-array](./2058-concatenation-of-array) — [LeetCode](https://leetcode.com/problems/concatenation-of-array/)
