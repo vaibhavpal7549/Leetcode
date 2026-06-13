@@ -10,7 +10,8 @@ class Solution {
             }
 
             int mod = sum % 26;
-            ans.append((char) ('z' - mod));
+            int f = 26- mod-1;
+            ans.append((char) ('a' + f));
         }
 
         return ans.toString();
