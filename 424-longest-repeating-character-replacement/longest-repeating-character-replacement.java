@@ -16,6 +16,7 @@ class Solution {
             if((wLength-maxF) > k){
                 freq[s.charAt(left) - 'A']--;
                 left++;
+                maxF--;
             }
             wLength = right - left + 1;
             maxW = Math.max(maxW, wLength);
