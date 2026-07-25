@@ -1,15 +1,19 @@
 class Solution {
     public int maxProduct(int n) {
         
-        int max = Integer.MIN_VALUE;
-        String str = String.valueOf(n);
-        for(int i = 0; i<str.length();  i++){
-            for(int j = i+1; j<str.length(); j++){
-                int d1 = str.charAt(i) - '0';
-                int d2 = str.charAt(j) - '0';
-                max = Math.max(max, d1*d2);
+        int a = Integer.MIN_VALUE;
+        int b = Integer.MIN_VALUE;
+        while(n >0){
+            int ld = n%10;
+            if(ld >= a && ld >=b){
+                b = a;
+                a = ld;
+                
+            }else if(ld >= b){
+                b= ld;
             }
+            n = n/10;
         }
-        return max;
+        return a * b;
     }
 }
