@@ -16,7 +16,7 @@ class Solution {
                 ans.append(s.charAt(k));
                 k++;
             }    
-            if(i>0){
+            if(i>=0){
                 ans.append(' ');
             }
             j = i-1;        
