@@ -17,7 +17,7 @@ class Solution {
                 return n;
             }else{
                 n++;
-                find(n);
+            
             }
         }
     }
