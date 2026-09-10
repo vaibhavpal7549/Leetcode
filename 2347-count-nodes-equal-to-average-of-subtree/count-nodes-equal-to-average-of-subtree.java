@@ -13,39 +13,40 @@
  *     }
  * }
  */
-class Solution {
-    int result = 0;
-    int sum = 0;
-    int count = 0;
-
-    public void findSum(TreeNode root) {
-        if(root == null) return;
-
-        sum += root.val;
-        count++;
-
-        findSum(root.left);
-        findSum(root.right);
-    }
-
-    public void solve(TreeNode root) {
-        if(root == null) return;
-
-        sum = 0;
-        count = 0;
-
-        findSum(root);
-
-        if(root.val == sum / count) {
+public class Solution {
+    private int result;
+    
+    private Pair<Integer, Integer> solve(TreeNode root) {
+        if (root == null) {
+            return new Pair<>(0, 0);
+        }
+        
+        Pair<Integer, Integer> left = solve(root.left);
+        Pair<Integer, Integer> right = solve(root.right);
+        
+        int leftSum = left.getKey();
+        int leftCount = left.getValue();
+        
+        int rightSum = right.getKey();
+        int rightCount = right.getValue();
+        
+        int SUM = leftSum + rightSum + root.val;
+        int COUNT = leftCount + rightCount + 1;
+        
+        int avg = SUM / COUNT;
+        
+        if (avg == root.val) {
             result++;
         }
-
-        solve(root.left);
-        solve(root.right);
+        
+        return new Pair<>(SUM, COUNT);
     }
-
+    
     public int averageOfSubtree(TreeNode root) {
+        result = 0;
+        
         solve(root);
+        
         return result;
     }
 }
