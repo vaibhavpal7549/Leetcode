@@ -25,6 +25,9 @@ class Solution {
             }
         }
         
-        return ans + count * 2;
+        if(count != 0){
+            ans += count *2;
+        } 
+        return ans;
     }
 }
